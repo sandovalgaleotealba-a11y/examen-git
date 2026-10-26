@@ -1,4 +1,8 @@
 whatsapp
 youtube
+<<<<<<< HEAD
 instagram
 discord
+=======
+telegram
+>>>>>>> dev
